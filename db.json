@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fahrrad 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 79,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71Wxeq0KgLL._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fahrrad 2",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable",
+      "price": 129,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1245/1481/products/600_HERO_WEB_FIRST.jpg?v=1597712912"
+    },
+    {
+      "id": 3,
+      "name": "Fahrrad 3",
+      "description": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "price": 759,
+      "imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1596650331-gazelle-ultimate-grid-1596650309.jpg?crop=1xw:1xh;center,top&resize=320%3A%2A"
+    },
+    {
+      "id": 4,
+      "name": "Fahrrad 4",
+      "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable",
+      "price": 399,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71cBFyt1zKL._AC_SX522_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fahrrad 5",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+      "price": 1099,
+      "imageUrl": "https://cdnm.bike-discount.de/media/org/orgb_F/orgid_25/thumbs/429481_3698380.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fahrrad 6",
+      "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source",
+      "price": 599,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbbhhWRf69QaNY30lC3qlMvZRo6m3XyDdhg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Fahrrad 7",
+      "description": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+      "price": 1599,
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/657/7e3/61feb33617777226f05ce9e88d59f74f63-tern-link-c8-folding-bike.2x.rsquare.w600.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fahrrad 8",
+      "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
+      "price": 899,
+      "imageUrl": "https://i.ebayimg.com/00/s/MTU5OVgxNjAw/z/DSkAAOSw8Opa6xBI/$_57.JPG"
+    },
+    {
+      "id": 9,
+      "name": "Fahrrad 9",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+      "price": 999,
+      "imageUrl": "https://www.gtbicycles.com/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/g/2/g21_g47601u_20-u-speed-series-expert_nyl_pd.png"
+    }
+  ],
+  "cart": [
+    {
+      "productId": 1,
+      "productName": "Fahrrad 1",
+      "price": 79,
+      "qty": 1,
+      "id": 1
+    },
+    {
+      "productId": 3,
+      "productName": "Fahrrad 3",
+      "price": 759,
+      "qty": 1,
+      "id": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
