@@ -9,3 +9,5 @@ The application has already covered the following features:
 - Add product to cart
 - Add to wish list
 - Routing functionality to Login page, Register page, Shop
+
+The next upcomming features will be availables soon!
