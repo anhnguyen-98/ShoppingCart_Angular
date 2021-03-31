@@ -1,4 +1,4 @@
-# ShpppingCart_Angular
+# ShoppingCart_Angular
 
 SHOPPING CART ANGULAR
 
