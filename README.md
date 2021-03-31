@@ -10,4 +10,4 @@ The application has already covered the following features:
 - Add to wish list
 - Routing functionality to Login page, Register page, Shop
 
-The next upcomming features will be availables soon!
+The next upcomming features will be available soon!
